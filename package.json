@@ -1,0 +1,28 @@
+{
+  "name": "backenddoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JtAgu/BackendDoc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JtAgu/BackendDoc/issues"
+  },
+  "homepage": "https://github.com/JtAgu/BackendDoc#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-myconnection": "^1.0.4",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
